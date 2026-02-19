@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h1 style={{ color: 'purple', fontWeight: 'bold', fontSize: '2rem' }}>
+          my name is radhika and i am deeply in love with hritik
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
