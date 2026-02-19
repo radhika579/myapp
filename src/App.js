@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1 style={{ color: 'purple', fontWeight: 'bold', fontSize: '2rem' }}>
-          my name is radhika and i am deeply in love with hritik
+          my first project in react
         </h1>
         <a
           className="App-link"
